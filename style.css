@@ -1,0 +1,40 @@
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    opacity: .75;
+    text-decoration-line: none;
+}
+a:link {
+    color: black;
+}
+a:hover {
+    color: black;
+    text-decoration-line: underline;
+}
+a:active {
+    color: black;
+}
+a:visited{
+    color: black;
+}
+
+#top-banner{
+    padding: 15px;
+}
+#left-top, #right-top{
+    display: inline;
+}
+#right-top{
+    float: right;
+}
+#store-link{
+    padding-left: 13px;
+}
+#gmail-link{
+    padding-right: 13px;
+}
+#google-img{
+    margin-top: 89px;
+    text-align: -webkit-center;
+    padding-top: 109px;
+}
